@@ -2,10 +2,15 @@ st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
+This fork has the following useful (to me) patches applied:
+- [alpha](https://st.suckless.org/patches/alpha/)
+- [hide-cursor](https://st.suckless.org/patches/hidecursor/)
+- [solarized-both](https://st.suckless.org/patches/solarized/)
+
 
 Requirements
 ------------
-In order to build st you need the Xlib header files.
+In order to build st you need the Xlib header files. This fork also requires the [Hack](https://sourcefoundry.org/hack/) font.
 
 
 Installation
