@@ -8,6 +8,7 @@ This fork has the following useful (to me) patches applied:
 - [solarized-both](https://st.suckless.org/patches/solarized/)
 - [clipboard](https://st.suckless.org/patches/clipboard/)
 - [right-click-paste](https://st.suckless.org/patches/rightclickpaste/)
+- [scroll-back](https://st.suckless.org/patches/scrollback/)
 
 
 Requirements
