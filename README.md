@@ -7,6 +7,7 @@ This fork has the following useful (to me) patches applied:
 - [hide-cursor](https://st.suckless.org/patches/hidecursor/)
 - [solarized-both](https://st.suckless.org/patches/solarized/)
 - [clipboard](https://st.suckless.org/patches/clipboard/)
+- [right-click-paste](https://st.suckless.org/patches/rightclickpaste/)
 
 
 Requirements
