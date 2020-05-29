@@ -9,6 +9,7 @@ This fork has the following useful (to me) patches applied:
 - [clipboard](https://st.suckless.org/patches/clipboard/)
 - [right-click-paste](https://st.suckless.org/patches/rightclickpaste/)
 - [scroll-back](https://st.suckless.org/patches/scrollback/)
+- [xresources-configure](https://st.suckless.org/patches/xresources/)
 
 
 Requirements
