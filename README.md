@@ -6,6 +6,7 @@ This fork has the following useful (to me) patches applied:
 - [alpha](https://st.suckless.org/patches/alpha/)
 - [hide-cursor](https://st.suckless.org/patches/hidecursor/)
 - [solarized-both](https://st.suckless.org/patches/solarized/)
+- [clipboard](https://st.suckless.org/patches/clipboard/)
 
 
 Requirements
